@@ -6,4 +6,4 @@
   
   ## Sa création ...
 
-  Windows Powershell apparaît premièrement sous Windows 7, puis reviens à chaque nouveautées Windows. Mais avant lui, il y en avait d'autre. On peut entre autre citer **command.com** sous Windows Me (2000) et Windows 98 (1998) ou bien il y avait l'invite de commandes très connue **cmd.exe** des années 2000 et toujours présentes sur nos OS.
+  Windows Powershell apparaît premièrement sous Windows 7, puis reviens à chaque nouveautées Windows. Mais avant lui, il y en avait d'autre. On peut entre autre citer **command.com** sous Windows Me (2000) et Windows 98 (1998) ou bien il y avait l'invite de commandes très connue **cmd.exe** des années 2000 et toujours présentes sur nos OS. Powershell reprend le même principe mais avec des évolutions.
