@@ -11,4 +11,4 @@
 
 ## ...Et son utilité
 
-  Contrairement à ses prédécesseurs, Powershell permet d'accéder à tout les composants de la machine de l'utilisateur. Un premier avantage quant au fait d'utiliser Windows Powershell et pas un autre.
+  Contrairement à ses prédécesseurs, Powershell permet d'accéder à tout les composants de la machine de l'utilisateur. Un premier avantage quant au fait d'utiliser Windows Powershell et pas un autre. Permettant beaucoup plus de choses avec une grande simplicité, notamment pour les gestion internes à la machine, Powershell s'impose comme ***THE*** invite de commandes 
