@@ -10,3 +10,5 @@
   Il est créé en 2004 par Jeffrey snover et publié en 2005, permettant aux utilisateurs de trouver un maximum de bug. Il sera ensuite publié de manière "définitive" en 2009 avec la sortie de Windows 7 comme dis ci-dessus.
 
 ## ...Et son utilité
+
+  Contrairement à ses prédécesseurs, Powershell permet d'accéder à tout les composants de la machine de l'utilisateur. Un premier avantage quant au fait d'utiliser Windows Powershell et pas un autre.
