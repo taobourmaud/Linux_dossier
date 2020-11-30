@@ -13,4 +13,4 @@
 
   Contrairement à ses prédécesseurs, Powershell permet d'accéder à tout les composants de la machine de l'utilisateur. Un premier avantage quant au fait d'utiliser Windows Powershell et pas un autre. Permettant beaucoup plus de choses avec une grande simplicité, notamment pour les gestion internes à la machine, Powershell s'impose comme ***THE*** invite de commandes .
 
-[ Retour au Sommaire] (https://github.com/taobourmaud/Linux_dossier/blob/main/README.md)
+[ Retour au Sommaire](https://github.com/taobourmaud/Linux_dossier/blob/main/README.md)
