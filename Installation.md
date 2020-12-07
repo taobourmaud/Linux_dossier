@@ -5,3 +5,7 @@ Comme présenté dans [son historique](https://github.com/taobourmaud/Linux_doss
 
 Pour démarré Powershell sous Windows il faut donc tout simplement recherché ``Powershell`` en barre de recherche comme ci-dessous :
 ![pwshForWindows](Images/pwshForWindows.png)
+Il est maintenant lancé et prêt à l'utilisation.
+
+# Linux :
+
