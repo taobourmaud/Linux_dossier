@@ -19,5 +19,7 @@ Vous savez coment rentrez dans un dossier etc mais dîtes-moi... Savez-vous en s
 
 Cette commande vous permet de lister les différents fichiers et dossiers présents à l'endorit où vous êtes : ![ls](Images/Get-ChildItem.PNG)  
 
-Si vous voulez plus de précision sur les élements présents sur l'image juste au dessus, [cliquez sur ce lien]()
+Si vous voulez plus de précision sur les élements présents sur l'image juste au dessus, allez regardez la page [droits](https://github.com/taobourmaud/Linux_dossier/blob/main/droits.md).    
+
+[Sommaire](https://github.com/taobourmaud/Linux_dossier/blob/main/README.md)
 
