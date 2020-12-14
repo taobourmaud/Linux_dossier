@@ -21,5 +21,5 @@ Cette commande vous permet de lister les différents fichiers et dossiers prése
 
 Si vous voulez plus de précision sur les élements présents sur l'image juste au dessus, allez regardez la page [droits](https://github.com/taobourmaud/Linux_dossier/blob/main/droits.md).    
 
-[Sommaire](https://github.com/taobourmaud/Linux_dossier/blob/main/README.md)
+[Retour au sommaire](https://github.com/taobourmaud/Linux_dossier/blob/main/README.md)
 

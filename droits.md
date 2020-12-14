@@ -23,4 +23,4 @@ Mais sur une ligne de permissions, il ya 10 caractères et non 9. En effet le 1e
     - -: fichier classique (c'est un tiret " - ")   
 
 
-[Sommaire](https://github.com/taobourmaud/Linux_dossier/blob/main/README.md)
+[Retour au sommaire](https://github.com/taobourmaud/Linux_dossier/blob/main/README.md)
