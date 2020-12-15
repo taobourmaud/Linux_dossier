@@ -2,11 +2,11 @@
 
 En tant que nuls, vous connaissez peut-être déjà quelques commandes de base sous Linux. Figurez-vous qu'elles ont toutes un équivalent Powershell.   
 Pour les connaître, la première commande à éxecuter est    
->## Get-Alias 
+> ## Get-Alias 
    
 Elle permet de lister toutes les commandes qui peuevent être exécuter comme cela : ![Get-Alias](https://github.com/taobourmaud/Linux_dossier/blob/main/Images/Get-Alias.PNG)   
-On y trouve sur une ligne le nom de la commande sous Linux : ![nom_Linux](Images/Alias_linux.png)   
-Et juste après, son équivalent Powershell, ici Set-Location : ![nom_pwsh](Images/Alias_pwsh.png)
+On y trouve sur une ligne le nom de la commande sous Linux : ![nom_Linux](Images/Alias_linux.PNG)   
+Et juste après, son équivalent Powershell, ici Set-Location : ![nom_pwsh](Images/Alias_pwsh.PNG)
 
 >## Set-Location   
 On en parlait juste avant, la commandes de déplacement entre des fichiers est celle ci-dessus. Elle permet de rentrer dans un fichier. Il suffit de déterminer le *chemin* à prendre comme ceci : ![Set-Location](Images/Set-Location.PNG) ce qui donne après ![Chemin](Images/Cheminnnn.PNG).
