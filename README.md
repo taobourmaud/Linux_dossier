@@ -14,8 +14,9 @@ Dans ce dossier, nous allons voir comment utiliser, et surtout pourquoi se servi
     - [Les variables](https://github.com/taobourmaud/Linux_dossier/blob/main/variables.md)   
     - [Les boucles](https://github.com/taobourmaud/Linux_dossier/blob/main/Boucles.md)   
     - [Les conditions](https://github.com/taobourmaud/Linux_dossier/blob/main/Conditions.md)   
-- ### VI- [Mes sources](https://github.com/taobourmaud/Linux_dossier/blob/main/Sources.md)   
-- ### VII- [Mes images](https://github.com/taobourmaud/Linux_dossier/tree/main/Images)   
+- ### VI- [Les TP](https://github.com/taobourmaud/Linux_dossier/tree/main/TP)
+- ### VII- [Mes sources](https://github.com/taobourmaud/Linux_dossier/blob/main/Sources.md)   
+- ### VIII- [Mes images](https://github.com/taobourmaud/Linux_dossier/tree/main/Images)   
 
 #   
 
