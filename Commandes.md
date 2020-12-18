@@ -1,10 +1,10 @@
-# Les commandes  pour les nuls 
+# Les commandes  
 
-En tant que nuls, vous connaissez peut-être déjà quelques commandes de base sous Linux. Figurez-vous qu'elles ont toutes un équivalent Powershell.   
+En tant que bons lecteurs, vous connaissez peut-être déjà quelques commandes de base sous Linux. Figurez-vous qu'elles ont toutes un équivalent Powershell.   
 Pour les connaître, la première commande à éxecuter est    
 > ## Get-Alias 
    
-Elle permet de lister toutes les commandes qui peuevent être exécuter comme cela : ![Get-Alias](https://github.com/taobourmaud/Linux_dossier/blob/main/Images/Get-Alias.PNG)   
+Elle permet de lister toutes les commandes qui peuevent être exécuter comme cela : ![Get-Alias](Images/Get-Alias.PNG)   
 On y trouve sur une ligne le nom de la commande sous Linux : ![nom_Linux](Images/Alias_linux.PNG)   
 Et juste après, son équivalent Powershell, ici Set-Location : ![nom_pwsh](Images/Alias_pwsh.PNG)
 
@@ -19,7 +19,7 @@ Vous savez coment rentrez dans un dossier etc mais dîtes-moi... Savez-vous en s
 
 Cette commande vous permet de lister les différents fichiers et dossiers présents à l'endorit où vous êtes : ![ls](Images/Get-ChildItem.PNG)  
 
-Si vous voulez plus de précision sur les élements présents sur l'image juste au dessus, allez regardez la page [droits](https://github.com/taobourmaud/Linux_dossier/blob/main/droits.md).    
+Si vous voulez plus de précision sur les élements présents sur l'image juste au dessus, allez regardez la page [sur les droits](https://github.com/taobourmaud/Linux_dossier/blob/main/droits.md).    
 
 [Retour au sommaire](https://github.com/taobourmaud/Linux_dossier/blob/main/README.md)
 
