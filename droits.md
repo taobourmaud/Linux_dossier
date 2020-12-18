@@ -1,4 +1,4 @@
-# Les droits pour les nuls   
+# Les droits    
 
 Lors de l'utilisation de la commande **Get-ChildItem**, une colonne intrigante s'est affiché. ![droits](Images/droits.PNG) Sur cette image, on peut voir plusieurs lettres diférentes affichées avec des tirets entre. Ces lettres représentes les droits appliqués sur un fichier/dossier. Les droits marchent par trio et il en éxiste 8 différents. Chaque combinaison à une valeur afin de pouvoir modifier les droits sur un fichier ou dossier : 
 
