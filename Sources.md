@@ -12,4 +12,8 @@ https://support.zendesk.com/hc/fr/articles/203691016-Formatage-de-texte-avec-Mar
 
 https://www.it-connect.fr/powershell-structure-conditionnelle-if-else-et-elseif/   
 
-https://www.tutorialspoint.com/powershell/powershell_conditions.htm
+https://www.tutorialspoint.com/powershell/powershell_conditions.htm   
+   
+      
+         
+[Retour au sommaire](https://github.com/taobourmaud/Linux_dossier/blob/main/README.md)
