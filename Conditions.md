@@ -21,4 +21,4 @@
 - ### Fin de condition   
     - Le code s'arrête et sort des conditions à partir du moment où il en trouve une de vraie. Par exemple, si le ``if`` est faux mais que le ``elseif`` est vrai, alors le ``else`` ne sera même pas vérifié.  
 
-[Retour](lien vers script)
+[Retour](https://github.com/taobourmaud/Linux_dossier/blob/main/script.md)
