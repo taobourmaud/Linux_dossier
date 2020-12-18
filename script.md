@@ -37,7 +37,7 @@ Avant de commencer, il faut savoir que les scripts ne peuvent pas être lancé s
 
 
 
-## Dans les scripts, on retrouve souvent différentes choses comme les [*Pipeline*](https://github.com/taobourmaud/Linux_dossier/blob/main/pipeline.md) , les [*variables*](), les [*boucles*](), les [*conditions*]() etc.  
+## Dans les scripts, on retrouve souvent différentes choses comme les [*Pipelines*](https://github.com/taobourmaud/Linux_dossier/blob/main/pipeline.md) , les [*variables*](https://github.com/taobourmaud/Linux_dossier/blob/main/variables.md), les [*boucles*](https://github.com/taobourmaud/Linux_dossier/blob/main/Boucles.md), les [*conditions*](https://github.com/taobourmaud/Linux_dossier/blob/main/Conditions.md) etc.  
 
 
 
