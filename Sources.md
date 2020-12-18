@@ -8,4 +8,8 @@ https://docs.microsoft.com/fr-fr/powershell/scripting/overview?view=powershell-7
 
 https://blog.netwrix.fr/2018/09/26/tutoriel-de-windows-powershell-scripting-pour-debutants/   
 
-https://support.zendesk.com/hc/fr/articles/203691016-Formatage-de-texte-avec-Markdown
+https://support.zendesk.com/hc/fr/articles/203691016-Formatage-de-texte-avec-Markdown   
+
+https://www.it-connect.fr/powershell-structure-conditionnelle-if-else-et-elseif/   
+
+https://www.tutorialspoint.com/powershell/powershell_conditions.htm
